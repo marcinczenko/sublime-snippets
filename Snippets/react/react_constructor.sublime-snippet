@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+constructor(props) {
+    super(props);
+
+    this.state = {
+        
+    };
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>.rconstr</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.js, source.jsx</scope>
+    <description>A default constructor for a react component.</description>
+</snippet>
